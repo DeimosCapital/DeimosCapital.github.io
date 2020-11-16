@@ -1,4 +1,4 @@
 AuthType Basic  
 AuthName "restricted area"  
-AuthUserFile /path/to/the/directory/you/are/protecting/.htpasswd  
+AuthUserFile C:\Users\Pierce\Desktop\deimoscapital_github_site\DeimosCapital.github.io\.htpasswd  
 require valid-user
